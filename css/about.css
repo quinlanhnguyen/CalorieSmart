@@ -1,0 +1,16 @@
+#tester {
+    margin: 30px;
+    color: black;
+}
+
+.headers {
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.text {
+    color: black;
+    line-height: normal;
+    margin: 3%;
+}

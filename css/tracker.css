@@ -1,0 +1,185 @@
+#test1 {
+    margin: 30px;
+    color: black;
+}
+
+#promptSignIn {
+    text-align: center;
+    margin-top: 100px;
+    color: black;
+}
+
+#signInForm {
+    text-align: center;
+}
+
+#signInButton {
+    font-size: 20px;
+}
+
+#dateForm,
+#dateForm2 {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+#date {
+    margin: 0 auto;
+    display: block;
+    margin-top: 20px;
+}
+
+select {
+    height: 30px;
+}
+
+#calorieCircle {
+    background-color: #A9D4D9;
+    margin: auto;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#mealDropdown {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: lightgray;
+    margin: auto;
+    width: 40%;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#signInButton {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#signInButton:hover {
+    background-color: #5B9EA6;
+    border-color: #5B9EA6;
+}
+
+#submitMeal {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 100px;
+    height: 25px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#submitDate {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 80px;
+    height: 25px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-top: 2px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#customMealBtn {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#viewDateIntakeButton {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 250px;
+    height: 40px;
+    font-size: 22px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#submitMeal:hover,
+#customMealBtn:hover,
+#viewDateIntakeButton:hover,
+#submitDate:hover {
+    background-color: #5B9EA6;
+    border-color: #5B9EA6;
+}
+
+#addContainer {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#mealUpdateTitle {
+    line-height: normal;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+#mealItemContainer {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+#addMealDescription,
+#viewDescription {
+    margin-bottom: 0;
+    font-size: 22px;
+}
+
+#mealUpdateDescription {
+    font-size: 22px;
+    line-height: normal;
+    margin-bottom: 30px;
+}
+
+#viewDateIntake {
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    color: black;
+}
+
+label {
+    color: black;
+}
+
+.equalSize {
+    height: 10%;
+    width: 50%;
+    box-sizing: border-box;
+}

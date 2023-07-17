@@ -1,0 +1,128 @@
+#promptSignIn {
+    text-align: center;
+    margin-top: 100px;
+    color: black;
+}
+
+#signInForm {
+    text-align: center;
+}
+
+.button {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 250px;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#signIn {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#backBtn {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.small_button {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 150px;
+    height: 25px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-top: 5px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.button:hover,
+#signIn:hover,
+.small_button:hover,
+#backBtn:hover {
+    background-color: #5B9EA6;
+    border-color: #5B9EA6;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    width: 200px;
+}
+
+#username {
+    color: black;
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+#profile {
+    text-align: center;
+}
+
+#goal_wrapper {
+    text-align: center;
+    color: black;
+}
+
+#change {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 100px;
+    font-size: 14px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+#change:hover {
+    background-color: #5B9EA6;
+    border-color: #5B9EA6;
+}
+
+#edit {
+    position: relative;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 20px solid #35455D;
+    margin-bottom: 40px;
+    background-color: #d8e4e8;
+    box-shadow: 4px 4px 5px #808080;
+}
+
+label {
+    font-size: 16px;
+    color: black;
+}
+
+#change_pass_form,
+#change_goal_form {
+    margin: 20px;
+    margin-bottom: 30px;
+    color: black;
+    text-align: center;
+    position: relative;
+}
+
+form {
+    text-align: center;
+}

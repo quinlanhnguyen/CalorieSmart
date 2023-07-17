@@ -1,0 +1,26 @@
+#lineChart {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 20px
+}
+
+#title {
+    margin: 30px;
+    color: black;
+}
+
+#date {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 100px;
+    height: 25px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-top: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#date:hover {
+    background-color: #5B9EA6;
+    border-color: #5B9EA6;
+}

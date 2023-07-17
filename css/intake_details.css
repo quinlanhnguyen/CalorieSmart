@@ -1,0 +1,79 @@
+#titlename {
+    margin: 30px;
+}
+
+#meal_container {
+    text-align: center;
+}
+
+#meal_table {
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    color: black;
+}
+
+#dateForm,
+#dateForm2 {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    color: black;
+}
+
+.btnStyle {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 70px;
+    height: 25px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-top: 5px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#signInButton {
+    background-color: #aec2d1;
+    border-color: #aec2d1;
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#signInButton:hover,
+.btnStyle:hover {
+    background-color: #5B9EA6;
+    border-color: #5B9EA6;
+}
+
+#signInForm,
+#promptSignIn {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid #35455D;
+}
+
+th,
+td {
+    border: 1px solid #35455D;
+    padding: 8px;
+}
+
+h1,
+h3,
+h4,
+h5,
+h6,
+p {
+    color: black;
+}
+
+#meal_container {
+    color: black;
+}
